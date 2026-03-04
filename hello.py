@@ -1,1 +1,1 @@
-print("Hello cherti")
+def add(a,b): return a+b
